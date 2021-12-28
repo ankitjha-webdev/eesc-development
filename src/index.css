@@ -1,0 +1,52 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body {
+  font-family: sans-serif;
+  -webkit-font-smoothing: sans-serif;
+  -moz-osx-font-smoothing: sans-serif;
+}
+.Navbar{
+  font-family: sans-serif;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+button{
+  background-color: #6d7447;
+  border: none;
+  color: #fff;
+  
+}
+#nav-link{
+  color: #fff;
+  width: 6em;
+  
+}
+#nav-links{
+  color: #542802;
+  margin-left: 2em;
+  font-weight: 600;
+}
+#nav-icon{
+  position: relative;
+  margin-left: 2em;
+}
+#nav{
+  margin-left: 2em;
+}
+#nav-collase{
+  margin-left: 20%;
+  /* word-spacing: 4em; */
+}
+svg{
+  font-size: 22px;
+}
+#cart-num{
+  background-color: red;
+}
+/* .Navbar{
+  font-family: sans-serif;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+} */
